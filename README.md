@@ -1,8 +1,7 @@
 # Calculator-Project
-This is a stupid calculator thing with 2 cool features
-there's the "!" button and the "Qdrtc" button
-the "!" button does the factorial of whatever number you enter AFTER it
-the "Qdrtc" button pulls up a new window that does the quadratic formula for you
-All the other buttons are pretty easy to figure out
-
-This is still a work in progress... I hope to make this grand
+This calculator is going to try and be the best free calculator available
+Currently, it is not. I have added a couple features that are new,
+Such as the ability to see that really big number you just calculated.
+I also added a quadratic formula button that does just what you think it does.
+There's also the factorial button which isn't super uncommon, but still.
+The rest of the stuff is pretty straight forward probably.
