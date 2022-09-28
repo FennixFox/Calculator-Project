@@ -1,0 +1,35 @@
+Update 1.2 (9/27/2022):
+
+-Added key for “e” (euler’s number), now below backspace
+
+-Added “Other” button next to 2nd, same functionality as 2nd
+
+-Changed output for ^, √, ×, ÷
+
+-Multiplication symbol changed from x to “×”
+
+-Fixed a bug when Python outputted a scientific notation number
+
+-Reworked “Show Full Num” window so that it is aligned top left and the text is pastable
+
+-Changed key font
+
+-Increased calculator size
+
+-Moved “(“ and “)” to where “π” and “=” were respectively
+
+-moved pi to where the “)” was
+
+-removed “(-)” and replaced it with “=”, moved quadratic button to second page, replaced with other button
+
+-Added functionality to the 2nd key,
+	-Replaces “√” and “^” function with “log” and “ln”
+	-replaces “π” symbol with “Pi” number
+	-replaces “e” with “e^”
+	-replaces “!” with “Qdrtc” button
+	-replaces “sin”, “cos”, and “tan” with “sin-1”, “cos-1”, and “tan-1”
+	-replaces factorial with quadratic
+
+-Added ability to type in the display with the keyboard
+
+-In general just cleaned up code a bit
